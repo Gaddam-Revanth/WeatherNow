@@ -15,13 +15,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Weather Now ☀️☁️ - Current Weather Conditions",
+  title: "Weather Now - Current Weather Conditions",
   description: "Get current weather conditions for any city. Ready to check the weather?",
 
   keywords: ["weather", "forecast", "outdoor", "climate", "temperature"],
   authors: [{ name: "Weather Now Team" }],
   openGraph: {
-    title: "Weather Now ☀️☁️",
+    title: "Weather Now",
     description: "Current weather conditions for any city",
     url: "https://weather-now.com",
     siteName: "Weather Now",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Weather Now ☀️☁️",
+    title: "Weather Now",
     description: "Current weather conditions for any city"
   },
 };
