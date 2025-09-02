@@ -2,6 +2,8 @@
 
 "Weather Now" is a modern, responsive web application built with Next.js that provides real-time weather information for any city worldwide. It leverages the Open-Meteo API for accurate weather data and geocoding, offering a seamless and intuitive user experience.
 
+## Working Video: https://go.screenpal.com/watch/cTQnounoiSx
+
 ## Features
 
 - **Real-time Weather Data**: Get current weather conditions, temperature, humidity, wind speed, and more.
